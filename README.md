@@ -4,6 +4,8 @@
 
 A fast-paced competitive climbing sport inspired by real firefighter competitions. Players race against time — and each other — to hook a ladder onto building windows and climb to victory. The game blends sprinting, precision, and climbing in a way that’s thrilling for both casual and competitive players.
 
+![LadderLegends](./LadderLegends.jpg)
+
 ## Narrative
 
 The siren blares.\
