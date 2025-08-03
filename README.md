@@ -21,6 +21,30 @@ Every race is different — slippery floors, moving targets, night-time lights, 
 Only the fastest, smartest, and most fearless will become the ultimate Ladder Legend.\
 Are you ready to climb?
 
+## Explaining the Real Sport
+
+### Name & Core Concept
+
+This sport is often referred to as Fire Sport and is part of firefighter competitions in ex-USSR countries. The sport simulates the speed, agility, and precision firefighters need to reach higher floors of a building using a special hook ladder.
+
+### Main Discipline: Hook Ladder Climbing
+
+- Under 15 years old: Competitors start without carrying the ladder — the ladder is already placed against the building (usually at the second-floor window). The task is to sprint from the starting line, reach the ladder, and climb to the second floor as fast as possible.
+- Teenage/Adult Beginner: Competitors carry the ladder, run with it, and hook it onto the first-floor window, climb, then lift it and hook onto the second-floor window, and climb again.
+- Advanced/Pro Level: Same process but continue up to the fourth floor. The entire sequence must be smooth — dropping the ladder or missing a hook costs precious seconds.
+
+### Secondary Discipline: 100-Meter Firefighter Obstacle Race
+
+- Course example: Sprint → jump over a fence → run across a narrow bridge/plank → connect a fire hose to a hydrant or target → dash to the finish.
+- It’s a mix of sprinting, coordination, and quick hands.
+
+### Why It’s Exciting
+
+- It’s fast — world-class hook ladder climbs to the 4th floor happen in under 14 seconds.
+- It’s skill-based — one tiny mistake can cost the win.
+- It’s unique — unlike standard track-and-field races, this has vertical climbing, precision hooking, and real risk of falling.
+- It’s a perfect blend of strength, speed, and technique.
+
 ## Game Overview
 
 ### 📌 Core Gameplay
