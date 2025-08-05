@@ -13,3 +13,4 @@
 
 - [Version Control in Unreal Engine 5 - Git, Github and Gitlab](https://www.youtube.com/watch?v=5n2IMqcrRlk) by Cobra Code
 - [Unreal 5 Vertex Snapping](https://www.youtube.com/watch?v=1EyBkIKFado)
+- [HOW TO SPRINT | Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=EG9iYYraDgw) by The Average Dev
