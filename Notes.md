@@ -19,3 +19,11 @@
 
 - [Need to Know Nodes in Unreal 5 Blueprints](https://www.youtube.com/watch?v=4kezN9gr_ms) by Cason Quisenberry
 - [How to Use Actor Components in Unreal Engine 5](https://www.youtube.com/watch?v=cM7Lpszyd6Y) by Gorka Games
+
+## 2025-08-07
+
+- [Easiest Interaction System in Unreal 5](https://www.youtube.com/watch?v=FGpMhz024js) by Cason Quisenberry
+
+## 2025-08-08
+
+- [First 6 Months Learning Unreal Engine (No Programming Experience)](https://www.youtube.com/watch?v=w2xKPrThHuE) by Pontypants
